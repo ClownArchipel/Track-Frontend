@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321677023846",
+    "project_id": "dev-track-af0b0",
+    "storage_bucket": "dev-track-af0b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321677023846:android:2ee3f3a90b2fd4cdc5eba7",
+        "android_client_info": {
+          "package_name": "com.example.track_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321677023846-45qg2fn1su1hc2abqqc5d5rim5eu259f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPIisbc5f3qRBulxwz7BNT5ZH59Eu80fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321677023846-45qg2fn1su1hc2abqqc5d5rim5eu259f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
